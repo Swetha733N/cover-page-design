@@ -149,6 +149,8 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ### server output:
 ![image](https://github.com/Swetha733N/cover-page-design/assets/122199934/99a6e297-6b84-4ca7-a190-1ce228c1615a)
 
+### HTML validator:
+![image](https://github.com/Swetha733N/cover-page-design/assets/122199934/705ad8a7-18b9-407b-8216-a50cd88e2ac9)
 
 
 ## Result:
